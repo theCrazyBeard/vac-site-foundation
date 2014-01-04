@@ -1,4 +1,4 @@
 vac-site-foundation
 ===================
 
-A website design for VAC Inc based on Zurb Foundation 5.
+A website design for VAC Inc utilizing Zurb Foundation 5.
